@@ -6,6 +6,7 @@ Powered by:
 - Go 1.16
 - [fiber](https://github.com/gofiber/fiber)
 - [skip2/go-qrcode](https://github.com/skip2/go-qrcode)
+- Bootstrap
 
 ## Run
 
